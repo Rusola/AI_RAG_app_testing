@@ -1,0 +1,21 @@
+# Core LangChain library for building RAG applications
+langchain
+
+# For loading and processing PDF documents
+pypdf
+
+# HuggingFace transformers for tokenization and embeddings
+sentence-transformers
+transformers
+
+# Local vector database for storing document embeddings
+chromadb
+
+# Streamlit for building the web UI
+streamlit
+
+# Ollama for local LLM execution
+ollama
+
+# For loading environment variables from .env file
+python-dotenv
